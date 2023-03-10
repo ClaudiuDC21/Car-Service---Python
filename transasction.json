@@ -1,0 +1,1 @@
+{"21": {"py/object": "Domain.transaction.Transaction", "id_entity": "21", "id_car": "1", "id_customer_card": "11", "suma_piese": 200.0, "suma_manopera": 225.0, "dateandtime": {"py/object": "datetime.datetime", "__reduce__": [{"py/type": "datetime.datetime"}, ["B+QMDAwMDAAAAA=="]]}, "total": 425.0, "sale": 25.0}}

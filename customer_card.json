@@ -1,0 +1,1 @@
+{"11": {"py/object": "Domain.customerCard.CustomerCard", "id_entity": "11", "nume": "", "prenume": "dascalu", "CNP": 5023434583953, "data_nasterii": {"py/object": "datetime.date", "__reduce__": [{"py/type": "datetime.date"}, ["B9IMDA=="]]}, "data_inregistrarii": {"py/object": "datetime.date", "__reduce__": [{"py/type": "datetime.date"}, ["B+YMFQ=="]]}}}
